@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New Tech.
 - 🌱 I’m currently learning implement ai research paper.
 - 💞️ I’m looking to collaborate on python automation (image,audio,scraping,many more...), backend development,machine learning, frontend with no css.
-- 📫 How to reach me "Please Checkout My Site (https://govindkumar.in)"
+- 📫 Checkout https://govindkumar.in for more info.
 
 <!---
 HacxS/HacxS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
