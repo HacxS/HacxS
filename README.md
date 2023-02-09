@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Govind
 - 👀 I’m interested in Learning New Tech.
 
-- 💞️ I’m looking to collaborate on python automation (image,audio,scraping,many more...), backend development,machine learning, frontend with no css.
+- 💞️ I’m looking to collaborate on python automation (image,audio,scraping,many more...), backend development,machine learning, frontend.
 - 📫 <a href="https://govindkumar.in" alt="Govind Kumar Profile"> Click Here </a> for more info.
 
 <!---
