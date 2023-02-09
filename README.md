@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govind
 - 👀 I’m interested in Learning New Tech.
-- 🌱 I’m currently learning implement ai research paper.
+
 - 💞️ I’m looking to collaborate on python automation (image,audio,scraping,many more...), backend development,machine learning, frontend with no css.
 - 📫 <a href="https://govindkumar.in" alt="Govind Kumar Profile"> Click Here </a> for more info.
 
